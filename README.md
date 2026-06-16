@@ -7,7 +7,7 @@ Video > MP4, AVI, DV, MKV, MOV
 Gambar > JPG, WEBP, PNG  
 Dokumen > PDF, DOCX  
 
-Fitur:
+Fitur:  
 Audio > Audio  
 Audio > Video  
 Video > Video  

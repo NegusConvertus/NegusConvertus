@@ -15,5 +15,16 @@ Video > Audio
 Gambar > Gambar  
 Dokumen > Dokumen  
 
+Download:  
+1. Install ffmpeg, LibreOffice, Tesseract, & Poppler  
+2. Set lokasi ke PATH (lewat system environment variable)
+
+Setup (Ketik di Terminal):
+1. cd (lokasi directory file)  
+2. npm install  
+3. node server.js  
+4. Buka "http://localhost:3000" lalu gunakan UI untuk convert
+5. Untuk mengakhiri proses, ketik "taskkill /F /IM node.exe"
+
 Demo video:  
 https://www.youtube.com/watch?v=Gv4rNICADbc
